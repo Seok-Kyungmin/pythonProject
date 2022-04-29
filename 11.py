@@ -23,5 +23,5 @@ def solution(brown, yellow):
                 # 2a +ab = Brown + 4
                 if 2*a + 2*b == brown + 4:  # 2*a + a*b = brown + 4
 
-                    return [a,b]
+                    return [a, b]
 

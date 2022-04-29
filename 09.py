@@ -2,6 +2,7 @@ import math
 
 #입력받은 숫자가 소수인지 판별
 #소수 : true | 소수 아니면 : false
+
 def numberCheck(num):
     #0,1은 소수가 아님
     if num == 0 or num == 1:

@@ -1,7 +1,6 @@
 import math
 from itertools import permutations
 
-
 def numberCheck(num):
     if num == 0 or num == 1:
         return False
