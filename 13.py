@@ -10,10 +10,8 @@ def solution(priorities, location):
 
     #print(myDeque)
 
-    idx=0
     while myDeque:
 
-        idx += 1
         firstData = myDeque.popleft()
 
         if myDeque and max(myDeque)[0] > firstData[0]:
