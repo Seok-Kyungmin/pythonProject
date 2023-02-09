@@ -10,7 +10,7 @@ print("전체 데큐 : ", myDeque)
 firstData = myDeque.popleft()
 
 # 삭제한 데이터
-print("왼쪽 첫번째 데이터 : ", firstData)
+print("왼쪽 첫 번째 데이터 : ", firstData)
 
 print("현재 데큐 : ", myDeque)
 
